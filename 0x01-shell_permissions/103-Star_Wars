@@ -1,2 +1,2 @@
 #!/bin/bash
-telnet StarWars_IV.mp4
+mplayer StarWars_IV.mp4
